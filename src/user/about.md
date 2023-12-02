@@ -1,5 +1,5 @@
 # Pardus Bireysel
-> Not: Bu sayfa gönüllü bir topluluğa aittir. Resmi Pardus <a href="https://pardus.org.tr" target="_blank">Sitesine</a> ve <a href="https://github.com/pardus" target="_blank">GitHub</a> sayfasını ziyaret etmek istemiş olabilirsiniz
+> Not: Bu sayfa gönüllü bir topluluğa aittir. Resmi Pardus <a href="https://pardus.org.tr" target="_blank">Sitesini</a> veya <a href="https://github.com/pardus" target="_blank">GitHub</a> sayfasını ziyaret etmek istemiş olabilirsiniz
 
 <b>Bireysel Pardus kullanımı için geliştirme/eğitim faaliyetleri gösteren ve bu neticede topluluk tarafından geliştirilen bireysel Pardus sürümü/araçları.</b>
 

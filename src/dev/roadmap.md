@@ -25,3 +25,4 @@
 
 ### `docs` Roadmap
 - [ ] Multilanguage Support (TR/EN)
+- [ ] Index and 404 page support
