@@ -1,6 +1,6 @@
 [book]
 authors = ["asandikci"]
-language = "en"
+language = "tr"
 multilingual = false
 src = "src"
-title = "Pardus Bireysel Documentation"
+title = "Pardus Bireysel Dökümantasyonu"
