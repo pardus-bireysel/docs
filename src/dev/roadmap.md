@@ -4,12 +4,12 @@
 ## General Roadmap
 
 - [ ] Bireysel kullanıcı için gereksiz olan uygulamaları kaldıran bir betik yazmak ([pardus-bireysel](#pardus-bireysel-bash-script-roadmap))
+- [ ] bir depo adresi açılacak ve son sürüm firefox deb sürümü + ufak diğer paketlerin v3 sürümleri sunulacak. Hızlı güncelleme verilecek
 - [ ] KDE ortamı için Pardus Hoşgeldin uygulaması yazmak
 - [ ] Pardus Bireysel betiğini arayüz olarak çalıştırabilecek bir GTK uygulaması yazmak
 - [ ] Bizzat kurulum aşamasinda ilgili ayarları yapabilmek için .iso dosyası oluşturmak
 - [ ] Pardus/Pardus Bireysel kullanımı için dökümantasyon ve eğitim/tanıtım odaklı içerikler oluşturmak
 - [ ] Bireysel kullanımı kolaylaştıracak çeşitli araçlar yazmak (MXLinux, Mint vb. dağıtımlar içindeki faydalı araçların benzerleri)
-- [ ] Pardus depolarına ek olarak topluluk paketleri için hızlı güncelleme verecek olan bir depo kurmak ve sisteme eklemek
 - [ ] Ve son olarak bu listedeki her bir adımı çıkan en son Pardus sürümü ile güncel tutmak ve bakımını sağlamak
 
 
