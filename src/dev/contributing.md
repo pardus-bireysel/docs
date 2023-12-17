@@ -10,6 +10,6 @@
 7. İlginiz ve desteğiniz için teşekkürler :)
 
 ## Prepare Development Environment
-1. Comment Anchor eklentisini kullanın (veya kodlar içinde TODO/REVIEW/NOTE/FIXME anahtar kelimelerini aratın)
+1. Comment Anchor eklentisini kullanın (veya kodlar içinde `TODO`/`REVIEW`/`NOTE`/`FIXME` anahtar kelimelerini aratın)
 2. Spellcheck eklentisini kurun (veya terminalden çalıştırın), dosyalar arası çalışmak için -x argümanını kullanmayı unutmayın!
 3. Bash IDE eklentisini kurun

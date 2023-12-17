@@ -4,3 +4,6 @@ language = "tr"
 multilingual = false
 src = "src"
 title = "Pardus Bireysel Dökümantasyonu"
+
+[output.html.playground]
+editable = true
