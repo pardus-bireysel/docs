@@ -35,4 +35,6 @@
 ### `docs` Roadmap
 - [ ] Multilanguage Support (TR/EN)
 - [ ] Index and 404 page support
-- [ ] runnable scripts support
+- [ ] runnable bash scripts support
+- [ ] Add useful tools like in https://rust-lang.github.io/mdBook/for_developers/backends.html
+- [ ] Look https://rust-lang.github.io/mdBook/for_developers/preprocessors.html

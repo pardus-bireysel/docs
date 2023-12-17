@@ -1,6 +1,6 @@
 # `common.sh`
 
-```bash,editable
+```bash,mdbook-runnable
 _log
 # feature rich logs with color support
 # $1           : log text
