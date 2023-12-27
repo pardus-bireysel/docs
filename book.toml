@@ -3,7 +3,7 @@ authors = ["asandikci"]
 language = "tr"
 multilingual = false
 src = "src"
-title = "Pardus Bireysel Dökümantasyonu"
+title = "Pardus Bireysel Dokümantasyonu"
 
 [output.html]
 mathjax-support = true

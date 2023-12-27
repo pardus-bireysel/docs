@@ -7,7 +7,7 @@
 Bireysel kullanıcıların Pardus'u daha rahat kullanabilmesi için çeşitli alanlarda çalışan <b>gönüllü</b> bir topluluğuz.
 
 ## Misyonumuz
-Bireysel kullanıcıların Pardus ekosistemini daha rahat kullanabilmesi ve bu ekosisteme alışabilmesi için gerekli geliştirme, dökümantasyon, eğitim, sorun giderme, teknik destek vb. süreçleri yürütmek. Resmi Pardus ekibi ile yarı-işbirlikçi bir şekilde çalışarak topluluk olarak Pardus'un gelişimine katkı vermek. Topluluğu bilinçlendirmek, Pardus'un bilinirliğini ve kullanım oranını arttırmak.
+Bireysel kullanıcıların Pardus ekosistemini daha rahat kullanabilmesi ve bu ekosisteme alışabilmesi için gerekli geliştirme, dokümantasyon, eğitim, sorun giderme, teknik destek vb. süreçleri yürütmek. Resmi Pardus ekibi ile yarı-işbirlikçi bir şekilde çalışarak topluluk olarak Pardus'un gelişimine katkı vermek. Topluluğu bilinçlendirmek, Pardus'un bilinirliğini ve kullanım oranını arttırmak.
 
 ## Projelerimiz
 - <a href="https://github.com/pardus-bireysel/pardus-bireysel">PardusBireysel</a> (Pardus XFCE sürümünü KDE sürümüne dönüştüren betik)

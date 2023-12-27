@@ -1,6 +1,6 @@
 # Roadmap
 
-<!-- DÖKÜMANTASYONU DEĞİŞİRMEDEN ÖNCE: https://pardus-bireysel.github.io/docs/documentation.md dosyasına bakınız !!! -->
+<!-- DOKÜMANTASYONU DEĞİŞİRMEDEN ÖNCE: https://pardus-bireysel.github.io/docs/documentation.md dosyasına bakınız !!! -->
 
 
 ## Betik
@@ -52,10 +52,10 @@
 ---
 
 ### Ekstra
-> Dökümantasyon & Eğitim & Tanıtım amaçlı çeşitli içeriklerin oluşturulması (öncelikli değil!)
-- Dökümantasyon
-  - [ ] Geniş bir kullanıcı dökümantasyonunun oluşturulması
-  - [ ] Geliştirici dökümantasyonunu sürekli güncellemek
+> Dokümantasyon & Eğitim & Tanıtım amaçlı çeşitli içeriklerin oluşturulması (öncelikli değil!)
+- Dokümantasyon
+  - [ ] Geniş bir kullanıcı dokümantasyonunun oluşturulması
+  - [ ] Geliştirici dokümantasyonunu sürekli güncellemek
 - Eğitim
   - [ ] gonullu.pardus.org.tr üzerinde faydalı blog yazıları paylaşmak
   - [ ] Video içerikleri (Nasıl Yapılır / Sorun Çözme) hazırlamak (YouTube/PeerTube)

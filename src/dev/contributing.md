@@ -15,7 +15,7 @@
 3. Bash IDE eklentisini kurun
 
 ### Dil Yönetimi
-> Daha okunaklı kodlar ve dökümantasyonlar için olabildiğince dilleri aşağıda gösterildikleri uygun yerlerde kullanmaya özen gösteriniz:
+> Daha okunaklı kodlar ve dokümantasyonlar için olabildiğince dilleri aşağıda gösterildikleri uygun yerlerde kullanmaya özen gösteriniz:
 - Kod İçi Yorumlar, Fonksiyon açıklamaları vb: ENG
 - Kod İçi Geçici Yorumlar (TODO/REVIEW/FIXME/NOTE): TR/ENG karışık
 - Commit Yorumları: ENG (Conventional commits)
@@ -23,4 +23,4 @@
 - Pull Request Başlığı: ENG
 - Pull Request Açıklamaları: TR/ENG
 - Issue / PR Yorumları: TR/ENG
-- Dökümantasyon: TR (mdbook multilanguage destekleyince ek olarak ENG)
+- Dokümantasyon: TR (mdbook multilanguage destekleyince ek olarak ENG)
